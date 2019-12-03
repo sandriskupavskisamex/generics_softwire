@@ -1,0 +1,29 @@
+.header {
+    border-bottom: 1px solid black;
+}
+
+.header ul {
+    list-style-type: none;
+    text-align: right;
+    margin-right: 100px;
+}
+
+.header a {
+    color: black;
+    text-decoration: none;
+}
+
+.header ul li {
+    display: inline-block;
+    font-family: Helvetica;
+    padding: 20px;
+    font-size: 22px;
+}
+
+.main {
+
+}
+
+.grid-container {
+    display: grid;
+}
